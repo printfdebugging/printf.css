@@ -1,0 +1,24 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.pri {
+
+    padding: 35px 45px 20px 45px;
+    height: 100%;
+    background: url('sahil.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+
+.sec {
+    border: 2px solid rgb(83, 69, 167);
+    padding: 20px 40px;
+    height: 90%;
+    background-color: #292D3E;
+    opacity: 60%;
+}
